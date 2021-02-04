@@ -567,6 +567,7 @@
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#readme)
 - [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 - [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+- [C#/.NET Jobs](https://github.com/wbail/awesome-csharp-jobs) - Listing the companies that uses C#/.NET to help the developers to find jobs quickly.
 
 
 ## Networking
